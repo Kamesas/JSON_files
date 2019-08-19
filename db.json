@@ -1,13 +1,16 @@
-    { todo: {     
-            title: 'test todo',
-            description: 'sample todo for pi-top frontend-test-react',
-            priority: 5,
-            tags: ['test']
-          },
-      {     
-            title: 'test todo',
-            description: 'sample todo for pi-top frontend-test-react',
-            priority: 5,
-            tags: ['test']
-          }   
+{
+  "todos": [
+        {
+      "title": 'test todo',
+      "description": 'sample todo for pi-top frontend-test-react',
+      "priority": 5,
+      "tags": ['test']
+    },
+          {
+      "title": 'test todo',
+      "description": 'sample todo for pi-top frontend-test-react',
+      "priority": 5,
+      "tags": ['test']
     }
+  ]
+}
