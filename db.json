@@ -1,10 +1,11 @@
 {
-  "todos": [
+  "posts": [
     {
-      "title": "test todo",
-      "description": "sample todo for pi-top frontend-test-react",
-      "priority": 5,
-      "tags": ["test"]
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
