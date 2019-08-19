@@ -1,4 +1,4 @@
-[
+
  {
   "title": "test todo",
   "description": "sample todo for pi-top frontend-test-react",
@@ -11,5 +11,5 @@
   "priority": 5,
   "tags": ["test arr"]
 }
- ]
+ 
 
